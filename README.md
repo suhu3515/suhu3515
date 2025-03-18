@@ -4,11 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Web Developer
 -----------------------
 
-Web developer who is expert in PHP Laravel, React JS, Next JS and React Native for mobile apps. Also, have experience in configuring web servers, firewalls, etc.
+Web developer who is expert in PHP Laravel, React JS, Next JS and React Native for mobile apps, windows apps. Also, have experience in configuring web servers, firewalls, etc.
 
 * 🌍  I'm based in Kerala, India
 * ✉️  You can contact me at [suhu3515@gmail.com](mailto:suhu3515@gmail.com)
-* 🧠  I'm learning Next JS
+* 🧠  I'm learning Next JS, React Native for Windows
+* 🖥️  I work full-time and freelance 
 
 ### Skills
 
